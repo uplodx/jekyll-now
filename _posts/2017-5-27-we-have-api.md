@@ -2,11 +2,11 @@
 layout: post
 title: Now we have API!
 ---
-![API was here](http://uplodx.eu/f/2U)
+![API was here](https://uplodx.eu/f/2U)
 
 Yes, uplodx.eu have a working API! Now you can upload files with ShareX!
 
-More info: [click here](http://uplodx.eu/api)
+More info: [click here](https://uplodx.eu/api)
 
 ---
 List of amendments to the uplodx.eu code:
