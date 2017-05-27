@@ -6,7 +6,7 @@ title: Now we have API!
 
 Yes, uplodx.eu have a working API! Now you can upload files with ShareX!
 
-More info: http://uplodx.eu/api
+More info: [click here](http://uplodx.eu/api)
 
 ---
 List of amendments to the uplodx.eu code:
